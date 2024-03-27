@@ -1,0 +1,7 @@
+bridge:
+    - id      : 0
+      length  : 100
+      hikers  : 
+        - name  : A
+          pace  : 200
+        

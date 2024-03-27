@@ -1,0 +1,17 @@
+bridge:
+    - id      : 0
+      length  : 100
+      hikers  : 
+        - name  : A
+          pace  : 2.5
+    - id      : 1
+      length  : 100
+      hikers  : 
+        - name  : B
+          pace  : 5
+    - id      : 2
+      length  : 100
+      hikers  : 
+        - name  : C
+          pace  : 10          
+    
